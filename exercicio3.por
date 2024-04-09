@@ -6,7 +6,7 @@ programa {
     real habitantes, km, densidade
     escreva("quantos habitante: ")
     leia(habitantes)
-    escreva("Area da região(km) ")
+    escreva("Area da região(km): ")
     leia(km)
     densidade = habitantes/km
     se(densidade>=100)
