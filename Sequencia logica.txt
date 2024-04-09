@@ -1,0 +1,60 @@
+Elaborar descrições narrativas para as seguintes tarefas abaixo:
+
+ 
+
+- Crie uma sequência lógica para trocar uma lâmpada.
+- Descreva a sequência lógica para trocar um pneu de um carro.
+- Elabore com detalhes, uma sequência lógica para tomar banho.
+
+                          trocar uma lâmpada.
+-pegar a lampada
+-pegar a escada
+-posicionar a escada
+-desligar a enegia
+-subir a escada
+-tirar a lampada queima
+-guarda a lampada queimada no bolso
+-tirar a lampada nova do bolso
+-por a lampada nova no lugar da queimada
+-descer a escada
+-ligar a energia
+
+                       trocar um pneu de um carro
+
+-pega o macaco
+-pega a chave de roda
+-levantar o carro com o macaco
+-retirar os parafuso com a chave de roda
+-tirar a roda
+-pegar o step
+-por o step no lugar do pneu a ser trocado
+-parafusar a step
+-descer o carro do macaco
+
+                  Elabore com detalhes, uma sequência lógica para tomar banho
+
+-pegar a toalha
+-entrar no banheiro
+-tirar a roupa
+-ligar o chuveiro
+-entrar de baixo
+-se esfregar com o sabão
+-se estiver limpo
+-tire o sabão do corpo
+-desliga o chuveiro
+-pega a toalha
+-se seca
+-se enrola na toalha
+-saia do banheiro
+
+
+
+
+
+
+
+
+
+
+
+
